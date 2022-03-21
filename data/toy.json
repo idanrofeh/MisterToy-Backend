@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "t102",
+    "name": "Truck",
+    "price": 90,
+    "labels": [
+      "On wheels",
+      "Battery powered"
+    ],
+    "createdAt": 1631031901011,
+    "inStock": true
+  },
+  {
+    "name": "sdgsgd",
+    "price": 12,
+    "inStock": true,
+    "labels": [],
+    "reviews": [],
+    "_id": "zJvEQt",
+    "createdAt": 1647873027145
+  }
+]
